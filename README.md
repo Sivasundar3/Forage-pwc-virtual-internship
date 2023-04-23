@@ -1,2 +1,2 @@
 # Forage-pwc-virtual-internship
-Contains Internship Project done on Forage
+This Repo Contains all my Tasks on PwC Switzerland Power BI Virtual Internship Program on Forage platform
