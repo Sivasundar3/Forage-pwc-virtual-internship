@@ -9,3 +9,14 @@
 
 ## Insights
 
+- Total calls was 5000 out of which 4054 calls were answered and 946 calls were not answered
+- Average Response time is 67.5 seconds
+- Average Customer Satisfaction Rating is 3.40
+- Total calls were reduced from January to March
+- Agent Joe has least calls answered , calls resolved , Customer Satisfaction Rating and took long times to respond calls
+
+
+You can interact with my Dashboard below 
+
+Live Report Link : 
+
