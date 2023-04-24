@@ -13,12 +13,7 @@ In addition, to better understand the data, the telecom Retention Manager has sc
 - We would like to know more about our customers: visualised clearly so that it’s self-explanatory for our management
 - The Retentions Manager has provided some information, have a look through the resource section.
 
-Your colleague, the engagement partner, asks you to do the following tasks:
-
-- Define proper KPIs
-- Create a dashboard for the retention manager reflecting the KPIs
-- Write a short email to him (the engagement partner) explaining your findings, and include suggestions as to what needs to be changed
-
+![Task .png](https://github.com/Sivasundar3/Forage-pwc-virtual-internship/blob/main/2.%20Customer%20Retention/Phonenow%20Inputs.png)
 
 ### Dashboard 
 
