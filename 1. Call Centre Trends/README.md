@@ -1,6 +1,6 @@
 ## Call Centre Trends - Visualising customer and agent behaviour
 
-[Live Report Link](https://www.novypro.com/project/pwc-phonenow-call-center-trend)
+[Live Report Link](https://www.novypro.com/project/pwc-phonenow-call-centre-trend-power-bi)
 
 ## Task Details  
 
