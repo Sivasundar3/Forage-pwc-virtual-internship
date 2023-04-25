@@ -16,7 +16,8 @@
 - Agent Joe has least calls answered , calls resolved , Customer Satisfaction Rating and took long times to respond calls
 
 
+
 You can interact with my Dashboard below 
 
-Live Report Link : 
+Live Report Link : https://www.novypro.com/project/pwc--phonenow-call-center-trends
 
