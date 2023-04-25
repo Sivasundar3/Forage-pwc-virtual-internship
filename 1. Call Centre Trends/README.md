@@ -1,4 +1,6 @@
-## Call Centre Trends - Visualising customer and agent behaviour.
+## Call Centre Trends - Visualising customer and agent behaviour
+
+[Live Report Link](https://www.novypro.com/project/pwc-phonenow-call-center-trend)
 
 ## Task Details  
 
@@ -17,7 +19,5 @@
 
 
 
-You can interact with my Dashboard below 
 
-Live Report Link : https://www.novypro.com/project/pwc--phonenow-call-center-trends
 
