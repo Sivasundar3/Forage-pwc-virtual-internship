@@ -20,3 +20,11 @@ In addition, to better understand the data, the telecom Retention Manager has sc
 ### Dashboard 
 
 ![customer retention.png](https://github.com/Sivasundar3/Forage-pwc-virtual-internship/blob/main/2.%20Customer%20Retention/Pwc%20Customer%20Retention.png)
+
+
+### Insigths
+- Total customers were 7043, of whom 1869 were left which accounts for 26.54 % of the total customers
+- Most customers are left on a Month to Month Contract
+- 1037 customers left within 1 year
+- 3632 Admin Ticket raised and 2955 Tech Tickets raised
+- Total Revenue was 16.06 M of which 2.9 M was loss due to churn
