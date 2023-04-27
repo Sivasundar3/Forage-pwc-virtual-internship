@@ -1,5 +1,7 @@
 ###  Customer Retention - Customer demographics and insights.
 
+[Live Report Link](https://www.novypro.com/project/pwc-phonenow-customer-retention)
+      
 ### Task 
 
 A few weeks after presenting your dashboard to the management, the Retention Manager from the telecom reaches out to you directly. He was impressed by your work and asked if you can put together a dashboard about customer retention.
