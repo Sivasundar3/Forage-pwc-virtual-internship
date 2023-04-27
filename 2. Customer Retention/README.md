@@ -19,3 +19,4 @@ In addition, to better understand the data, the telecom Retention Manager has sc
 
 ### Dashboard 
 
+![customer retention.png](https://github.com/Sivasundar3/Forage-pwc-virtual-internship/blob/main/2.%20Customer%20Retention/Pwc%20Customer%20Retention.png)
