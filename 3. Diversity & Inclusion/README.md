@@ -1,5 +1,6 @@
 ### Diversity & Inclusion - Gender balance in the executive suite
 
+[Live Report Link](https://www.novypro.com/project/pwc-diversity--inclusion)
 
 
 ### Task 
