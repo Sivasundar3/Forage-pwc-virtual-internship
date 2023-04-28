@@ -1,5 +1,7 @@
 ### Diversity & Inclusion - Gender balance in the executive suite
 
+
+
 ### Task 
 Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. They’re reaching out to us for help.
 
@@ -21,3 +23,4 @@ Here is a hint: Calculating the following measures could help to define proper K
 
 
 ### Dashboard 
+![Diversity and inclusion.png](https://github.com/Sivasundar3/Forage-pwc-virtual-internship/blob/main/3.%20Diversity%20%26%20Inclusion/Diversity%20and%20Inclusion.png)
