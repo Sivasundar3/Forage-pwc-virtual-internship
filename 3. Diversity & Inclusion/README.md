@@ -25,3 +25,14 @@ Here is a hint: Calculating the following measures could help to define proper K
 
 ### Dashboard 
 ![Diversity and inclusion.png](https://github.com/Sivasundar3/Forage-pwc-virtual-internship/blob/main/3.%20Diversity%20%26%20Inclusion/Diversity%20and%20Inclusion.png)
+
+
+### Insights
+- Total employees count was 500 out of which 295 are men and 205 are women
+- Men's Performance rating was slightly higher than Women's Performance Rating
+- Women are less promoted  compared to men 
+- The turnover rate of men was higher than women
+- The HR department has more women count than men
+- Almost all departments have greater men count than women except for HR and Operations Department
+- Women's count was very less in Executive, Director, and Senior Manager job level
+
